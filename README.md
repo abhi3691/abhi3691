@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinand-vk-1896a720a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinand-vk-1896a720a" height="30" width="40" /></a>
-<a href="https://fb.com/abhinandvk41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinandvk41" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abhi.abhinandazok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhinandvk41" height="30" width="40" /></a>
 <a href="https://instagram.com/abhinandvk41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinandvk41" height="30" width="40" /></a>
 </p>
 
