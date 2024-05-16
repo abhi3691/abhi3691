@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/abhinandvk41"><img src="https://api.daily.dev/devcards/v2/cPqUm0FazOQP0hzF8XatJ.png?type=default&r=i2y" width="356" alt="Abhinand vk's Dev Card"/></a>
+<a href="https://app.daily.dev/abhinandvk41"><img src="https://api.daily.dev/devcards/v2/cPqUm0FazOQP0hzF8XatJ.png" width="356" alt="Abhinand vk's Dev Card"/></a>
 
 
 # 💫 About Me:
