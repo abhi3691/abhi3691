@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/abhinandvk41"><img src="https://api.daily.dev/devcards/v2/cPqUm0FazOQP0hzF8XatJ.png?type=default&r=pje" width="356" alt="Abhinand vk's Dev Card"/></a>
+<a href="https://app.daily.dev/abhinandvk41"><img src="./devcard.png" width="356" alt="Abhinand vk's Dev Card"/></a>
 
 # 💫 About Me:
 - 🔭 I’m currently working on [React-native-atom-temple](https://www.npmjs.com/package/react-native-atom-template)<br><br>- 🌱 I’m currently learning **React native, flutter, node js, type script**<br><br>- 👯 I’m looking to collaborate on [React-native-audio-remove](https://www.npmjs.com/package/react-native-audio-remove)<br><br>- 🤝 I’m looking for help with [React-native-audio-remove](https://www.npmjs.com/package/react-native-audio-remove)<br><br>- 👨‍💻 All of my projects are available at [https://www.npmjs.com/~abhinandvk41](https://www.npmjs.com/~abhinandvk41)<br><br>- 💬 Ask me about **React, React-native, flutter, node js**<br><br>- 📫 How to reach me **Abhinandvk41@gmail.com**
